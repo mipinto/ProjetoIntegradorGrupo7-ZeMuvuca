@@ -1,2 +1,2 @@
-# ProjetoIntegradorGrupo7_Z-Muvudo
+# ProjetoIntegradorGrupo7_ZéMuvuca
 Entrega Final do Projeto Integrador - Grupo 7
